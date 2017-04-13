@@ -9,3 +9,6 @@ gui
 *.exe
 *.gch
 *core.*
+*log.txt
+*.pyc
+*.idea

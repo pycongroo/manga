@@ -1,0 +1,3 @@
+[submodule "PYTHON/externals/pynet"]
+	path = PYTHON/externals/pynet
+	url = https://github.com/pycongroo/pynet
